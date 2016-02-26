@@ -12,4 +12,4 @@ Inspired by [LFeh - Daily Log](https://github.com/LFeh/dailylog/)
 
 ### Fev
 
-- [Day 24](https://github.com/lfeh/dailylog/blob/master/log/25-02-2016.md) `semantics` `killing spams` `nth-child`
+- [Day 25](https://github.com/mauriciojunior/dailylog/blob/master/log/25-02-2016.md) `semantics` `killing spams` `nth-child`
