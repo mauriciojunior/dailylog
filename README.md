@@ -21,3 +21,5 @@ Inspired by [LFeh - Daily Log](https://github.com/LFeh/dailylog/)
 ### Mar
 
 - [Day 01](https://github.com/mauriciojunior/dailylog/blob/master/log/03-01-2016.md) `flux` `redux` `more react native` 
+
+- [Day 08](https://github.com/mauriciojunior/dailylog/blob/master/log/03-08-2016.md) `ionic` `DNE` `CSS`
