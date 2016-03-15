@@ -27,3 +27,5 @@ Inspired by [LFeh - Daily Log](https://github.com/LFeh/dailylog/)
 - [Day 09](https://github.com/mauriciojunior/dailylog/blob/master/log/03-09-2016.md) `unit test with ionic` `podcast` `CSS`
 
 - [Day 10](https://github.com/mauriciojunior/dailylog/blob/master/log/03-09-2016.md) `angularjs` `UX` `functional programming` `CSS`
+
+- [Day 14](https://github.com/mauriciojunior/dailylog/blob/master/log/03-09-2016.md) `ionic` `UX`
