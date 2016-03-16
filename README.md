@@ -29,3 +29,5 @@ Inspired by [LFeh - Daily Log](https://github.com/LFeh/dailylog/)
 - [Day 10](https://github.com/mauriciojunior/dailylog/blob/master/log/03-09-2016.md) `angularjs` `UX` `functional programming` `CSS`
 
 - [Day 14](https://github.com/mauriciojunior/dailylog/blob/master/log/03-14-2016.md) `ionic` `UX`
+
+- [Day 15](https://github.com/mauriciojunior/dailylog/blob/master/log/03-15-2016.md) `angular` `UX`
