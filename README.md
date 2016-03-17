@@ -31,3 +31,5 @@ Inspired by [LFeh - Daily Log](https://github.com/LFeh/dailylog/)
 - [Day 14](https://github.com/mauriciojunior/dailylog/blob/master/log/03-14-2016.md) `ionic` `UX`
 
 - [Day 15](https://github.com/mauriciojunior/dailylog/blob/master/log/03-15-2016.md) `angular` `UX`
+ 
+- [Day 16](https://github.com/mauriciojunior/dailylog/blob/master/log/03-16-2016.md) `OpenGraph` `UX` `CSS`
