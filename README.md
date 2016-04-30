@@ -4,7 +4,7 @@
 
 # dailylog
 
-My daily log day after day.
+My daily log day after day... or not :).
 
 Inspired by [LFeh - Daily Log](https://github.com/LFeh/dailylog/)
 
@@ -33,3 +33,7 @@ Inspired by [LFeh - Daily Log](https://github.com/LFeh/dailylog/)
 - [Day 15](https://github.com/mauriciojunior/dailylog/blob/master/log/03-15-2016.md) `angular` `UX`
  
 - [Day 16](https://github.com/mauriciojunior/dailylog/blob/master/log/03-16-2016.md) `OpenGraph` `UX` `CSS`
+
+### Apr
+
+- [Day 30](https://github.com/mauriciojunior/dailylog/blob/master/log/04-30-2016.md) `motivartion` `es6` `preprocessors`
